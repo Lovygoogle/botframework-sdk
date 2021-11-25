@@ -1,0 +1,17 @@
+<manifest>
+
+    <تطبيق> <
+
+ca-app-pub-1632589816722737/3761416618>
+
+        <! - نموذج معرّف تطبيق AdMob: ca-app-pub-3940256099942544 ~ 3347511713 ->
+
+        <البيانات الوصفية>
+
+            android: name = "com.google.android.gms.ads.APPLICATION_ID"
+
+            <android: القيمة = "ca-app-pub-1632589816722737 ~ 9078733619" />
+
+    </application>
+
+</manifest>
